@@ -4,4 +4,4 @@ The Data Set can be downloaded from this link : https://www.kaggle.com/deadskull
 ## Screenshots
 ![](./imgs/dark_main.png)        ![](./imgs/light_main.png)
 ## Emotion Detion Page and Player
-![](imgs/emo (1).png)        ![](imgs/emo (2).png)
+![](./imgs/emo (1).png)        ![](./imgs/emo (2).png)
